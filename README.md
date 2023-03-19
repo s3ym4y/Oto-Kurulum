@@ -9,7 +9,7 @@
 - #Uac : Uac kapatır.
 - #Firewall : Firewall kapatır.
 - #Defender : Defender kapatır.
-- #Dx9 + Pencere : game.cfg seçtiğinizde otomatik olarak DirectX ve pencere moduna alır.
+- #Dx9 + Pencere : game.cfg seçtiğinizde otomatik olarak DirectX9 ve pencere moduna alır.
 - #AiO : AiO yüklü değilse otomatik olarak indirir ve klasöre çıkartır.
 - #Ts.exe : Otomatik olarak açar.
 - #Run.exe : Otomatik olarak açar.
